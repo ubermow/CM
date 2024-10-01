@@ -103,4 +103,8 @@ if __name__ == '__main__':
         print_stats(total_chars, total_words, total_lines)
 
     end_time = time.time()
+<<<<<<< HEAD
     logger.info(f'Total elapsed time: {end_time - start_time:.2f} seconds') 
+=======
+    logger.info(f'Total elapsed time: {end_time - start_time:.2f} seconds')
+>>>>>>> 20e5d3a68bab2fc8236afe46934842187a2e7c62
